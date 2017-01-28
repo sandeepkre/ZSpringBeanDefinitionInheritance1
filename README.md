@@ -1,0 +1,2 @@
+# ZSpringBeanDefinitionInheritance1
+SpringInheritance
